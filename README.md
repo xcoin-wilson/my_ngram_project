@@ -3,6 +3,7 @@ This project takes one or more pieces of text from the user through the command 
 and for each piece of text, it goes through every character and counts how many times each one appears. 
 It then prints out each character along with the number of times it shows up. 
 For example, if you enter the word hello, the program will output something like:
+
 h:1  
 e:1  
 l:2  
